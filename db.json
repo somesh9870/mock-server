@@ -1,9 +1,9 @@
-
 {
-    "todo": [
-    {
-      "title": "task-1",
-      "status": "Gertrudis Tatterton",
-      "id": "sldjfljsdlfj3243"
-    },
-}
+    "users": [
+      {
+        "task": "task-1",
+        "status": false,
+        "id": "abc343434"
+      }
+    ]
+  }
